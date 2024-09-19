@@ -17,5 +17,5 @@ variable "zone_id" {
 }
 
 variable "domain_name" {
-    default = "daws81s.online"
+    default = "asritha.online"
 }
