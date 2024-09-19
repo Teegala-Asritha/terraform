@@ -13,7 +13,7 @@ variable "common_tags" {
 }
 
 variable "zone_id" {
-    default = "Z09912121MS725XSKH1TG"
+    default = "Z0609988ZZ39CCHOCVJS"
 }
 
 variable "domain_name" {
