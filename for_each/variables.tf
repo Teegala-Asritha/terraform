@@ -8,9 +8,9 @@ variable  "instances" {
 }
 
 variable "domain_name" {
-  default = "daws81s.online"
+  default = "asritha.online"
 }
 
 variable "zone_id" {
-  default = "Z09912121MS725XSKH1TG"
+  default = "Z0609988ZZ39CCHOCVJS"
 }
